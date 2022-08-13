@@ -1,0 +1,931 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+
+
+
+
+
+
+
+.Home{
+  background: url('../images/zain.jpg') no-repeat  center/cover;
+  height: 240px;
+  width: 1345px;
+ margin-top: 10px;
+}
+
+.Ring{
+  background: url('https://www.olx.com.pk/assets/iconSellBorder_noinline.d9eebe038fbfae9f90fd61d971037e02.svg')
+   no-repeat  center/cover;
+  height: 50px;
+  width: 110px;
+}
+
+
+.Car{
+  background: url('https://images.olx.com.pk/thumbnails/219945537-240x180.webp') no-repeat  center/cover;
+  height: 162px;
+  width: 300px;
+}
+
+
+.Auvon{
+  background: url('https://images.olx.com.pk/thumbnails/214055009-240x180.webp')
+   no-repeat  center/cover;
+  height: 162px;
+  width: 300px;
+}
+
+
+.Portion{
+  background: url('https://images.olx.com.pk/thumbnails/108201085-240x180.webp') no-repeat  center/cover;
+  height: 162px;
+  width: 300px;
+}
+
+.Map{
+  background: url('https://images.olx.com.pk/thumbnails/232198766-240x180.webp') no-repeat  center/cover;
+  height: 162px;
+  width: 300px;
+}
+
+
+.Service{
+  background: url('https://images.olx.com.pk/thumbnails/228188289-240x180.webp') no-repeat  center/cover;
+  height: 162px;
+  width: 300px;
+}
+
+
+.Bed{
+  background: url('https://images.olx.com.pk/thumbnails/231866270-240x180.webp')
+   no-repeat  center/cover;
+  height: 162px;
+  width: 300px;
+}
+
+
+.Machine{
+  background: url('https://images.olx.com.pk/thumbnails/231425430-240x180.webp') no-repeat  center/cover;
+  height: 162px;
+  width: 300px;
+}
+
+.Watch{
+  background: url('https://images.olx.com.pk/thumbnails/233095287-240x180.webp') no-repeat  center/cover;
+  height: 162px;
+  width: 300px;
+}
+
+.Shopping{
+  background:
+   url('https://images.olx.com.pk/thumbnails/229543447-240x180.webp') 
+   no-repeat  center/cover;
+   width: 300px;
+  }
+
+
+.Road{
+  background: url('https://images.olx.com.pk/thumbnails/233122762-240x180.webp')
+   no-repeat  center/cover;
+  height: 162px;
+  width: 300px;
+}
+
+
+.Drive{
+  background: url('https://images.olx.com.pk/thumbnails/233122776-240x180.webp') no-repeat  center/cover;
+  height: 162px;
+  width: 300px;
+}
+
+.Canva{
+  background: url('https://images.olx.com.pk/thumbnails/218241618-240x180.webp') no-repeat  center/cover;
+  height: 162px;
+
+  width: 300px;
+}
+
+
+
+.World{
+  background: url('https://images.olx.com.pk/thumbnails/233122776-240x180.webp') no-repeat  center/cover;
+  height: 162px;
+  width: 300px;
+}
+
+
+.Truck{
+  background: url('https://images.olx.com.pk/thumbnails/233123975-240x180.webp')
+   no-repeat  center/cover;
+  height: 162px;
+  width: 300px;
+}
+
+
+.Next{
+  background: url('https://images.olx.com.pk/thumbnails/230872666-240x180.webp') no-repeat  center/cover;
+  height: 162px;
+  width: 300px;
+}
+
+.Vercel{
+  background: url('https://images.olx.com.pk/thumbnails/232682724-240x180.webp') no-repeat  center/cover;
+  height: 162px;
+  width: 300px;
+}
+
+
+
+
+
+
+
+.homes{
+  background: url('https://images.olx.com.pk/thumbnails/199811035-240x180.webp') no-repeat  center/cover;
+  height: 162px;
+  width: 300px;
+}
+
+
+.rooms{
+  background: url('https://images.olx.com.pk/thumbnails/153991223-240x180.webp')
+   no-repeat  center/cover;
+  height: 162px;
+  width: 300px;
+}
+
+
+.shoes{
+  background: url('https://tpc.googlesyndication.com/simgad/18008168111004451567') no-repeat  center/cover;
+  height: 162px;
+  width: 300px;
+}
+
+.food{
+  background: url('https://images.olx.com.pk/thumbnails/133199869-240x180.webp') no-repeat  center/cover;
+  height: 162px;
+  width: 300px;
+}
+
+
+
+
+
+.books{
+  background: url('https://images.olx.com.pk/thumbnails/232087683-240x180.webp') no-repeat  center/cover;
+  height: 162px;
+  width: 300px;
+}
+
+
+.bat{
+  background: url('https://images.olx.com.pk/thumbnails/153991223-240x180.webp')
+   no-repeat  center/cover;
+  height: 162px;
+  width: 300px;
+}
+
+
+.mobile{
+  background: url('https://images.olx.com.pk/thumbnails/231457853-240x180.webp') no-repeat  center/cover;
+  height: 162px;
+  width: 300px;
+}
+
+.clone{
+  background: url('https://images.olx.com.pk/thumbnails/181502436-240x180.webp') no-repeat  center/cover;
+  height: 162px;
+  width: 300px;
+}
+
+
+
+
+
+     /* Mobil Phones */
+
+/*      
+.infinix{
+  background: url('https://images.olx.com.pk/thumbnails/229146680-240x180.webp') no-repeat  center/cover;
+  height: 162px;
+  width: 300px;
+}
+
+
+.xiomi{
+  background: url('https://images.olx.com.pk/thumbnails/233050069-240x180.webp')
+   no-repeat  center/cover;
+  height: 162px;
+  width: 300px;
+}
+
+
+.Apple{
+  background: url('https://s.alicdn.com/@sc04/kf/H27cb74bee6ee4fe2b27fda3dea201f1br.jpg_300x300.jpg') no-repeat  center/cover;
+  height: 162px;
+  width: 300px;
+}
+
+.vivio{
+  background: url('https://s.alicdn.com/@sc04/kf/H109dfcca5fe54d2582e39f4dca4a27f1z.jpg_300x300.jpg') no-repeat  center/cover;
+  height: 162px;
+  width: 300px;
+}
+
+
+.oppo{
+  background: url('https://s.alicdn.com/@sc04/kf/Hd658fef8ec90452ea7416fd283d5e861m.jpg_300x300.jpg') no-repeat  center/cover;
+  height: 162px;
+  width: 300px;
+}
+
+
+.huwei{
+  background: url('https://s.alicdn.com/@sc04/kf/H288398e3245447b3abdb67da6256f1efp.jpg_300x300.jpg')
+   no-repeat  center/cover;
+  height: 162px;
+  width: 300px;
+}
+
+
+.note{
+  background: url('https://s.alicdn.com/@sc04/kf/H537a1b5b92b9476fa4da59fbe3a793e8h.jpg_300x300.jpg') no-repeat  center/cover;
+  height: 162px;
+  width: 300px;
+}
+
+.march{
+  background: url('https://s.alicdn.com/@sc04/kf/Hf2c764959edd4165b991f279cf53faf9K.jpg_300x300.jpg') no-repeat  center/cover;
+  height: 162px;
+  width: 300px;
+}
+
+
+
+
+.samsung{
+  background: url('https://s.alicdn.com/@sc04/kf/H308db54e6d3d4c659ebb8e91175e3e4ef.jpg_300x300.jpg') no-repeat  center/cover;
+  height: 162px;
+  width: 300px;
+}
+
+
+.vgotel{
+  background: url('https://s.alicdn.com/@sc04/kf/H56fc25077c21411db54c2b8012351a7dz.jpg_300x300.jpg')
+   no-repeat  center/cover;
+  height: 162px;
+  width: 300px;
+}
+
+
+.figi{
+  background: url('https://s.alicdn.com/@sc04/kf/Hc54e1242f8da4b4da26679377f5fbd07b.jpg_300x300.jpg') no-repeat  center/cover;
+  height: 162px;
+  width: 300px;
+}
+
+.smooth{
+  background: url('https://s.alicdn.com/@sc04/kf/H8940b8019e0e4161999a746039ff54dda.jpg_300x300.jpg') no-repeat  center/cover;
+  height: 162px;
+  width: 300px;
+} */
+
+
+
+
+
+                /* Cars Products */
+
+    
+                /* .audi{
+                  background:
+                   url('https://s.alicdn.com/@sc04/kf/H258dcdd6607842d68694b112ec0f240cr.jpg_300x300.jpg') no-repeat  center/cover;
+                  height: 162px;
+                  width: 300px;
+                }
+                
+                
+                .farari{
+                  background: 
+                  url('https://s.alicdn.com/@sc04/kf/H4b9cb2181d144bc9aef40fa685dcb30aH.png_300x300.png')
+                   no-repeat  center/cover;
+                  height: 162px;
+                  width: 300px;
+                }
+                
+                
+                .mehran{
+   background: url('https://s.alicdn.com/@sc04/kf/H8d17e0718b5341f6ab2fbfcd59d58f7b2.jpg_300x300.jpg') no-repeat  center/cover;
+                  height: 162px;
+                  width: 300px;
+                }
+                
+                .g3{
+                  background:
+                   url('https://s.alicdn.com/@sc04/kf/H63180fc2c4dc4068af9e5cb7b23dcda9x.jpg_300x300.jpg') no-repeat  center/cover;
+                  height: 162px;
+                  width: 300px;
+                }
+                
+                
+                .jeep{
+                  background:
+                   url('https://s.alicdn.com/@sc04/kf/H7640c402e05f4cd78c09c8b19e05a254n.jpg_300x300.jpg') no-repeat  center/cover;
+                  height: 162px;
+                  width: 300px;
+                }
+                
+                
+                .civic{
+                  background:
+                   url('https://s.alicdn.com/@sc04/kf/H149b567df9c041ffad4e3872494548faW.jpg_300x300.jpg')
+                   no-repeat  center/cover;
+                  height: 162px;
+                  width: 300px;
+                }
+                
+                
+                .hondas{
+                  background: 
+                  url('https://s.alicdn.com/@sc04/kf/H14f0e5c2a05d4c8b99fc1765a7f3d7acL.jpg_300x300.jpg') no-repeat  center/cover;
+                  height: 162px;
+                  width: 300px;
+                }
+                
+                .remote{
+                  background:
+                   url('https://s.alicdn.com/@sc04/kf/H7599d1626c2447288cc73c9b837505f5K.jpg_300x300.jpg') no-repeat  center/cover;
+                  height: 162px;
+                  width: 300px;
+                }
+                
+                
+                
+                
+                .motor{
+                  background: url('https://s.alicdn.com/@sc04/kf/HTB1P1zMacfrK1Rjy0Fmq6xhEXXas.jpg_300x300.jpg') no-repeat  center/cover;
+                  height: 162px;
+                  width: 300px;
+                }
+                
+                
+                .brand{
+                  background:
+                   url('https://s.alicdn.com/@sc04/kf/H6e6761e296584728a98f9cba5de3a818e.jpg_300x300.jpg')
+                   no-repeat  center/cover;
+                  height: 162px;
+                  width: 300px;
+                }
+                
+                
+                .modern{
+                  background:
+                   url('https://s.alicdn.com/@sc04/kf/H0ae64bb6d05c48cbb9a9a28d492b0cb5c.jpg_300x300.jpg') no-repeat  center/cover;
+                  height: 162px;
+                  width: 300px;
+                }
+                
+                .suzuki{
+                  background: 
+                  url('https://s.alicdn.com/@sc04/kf/H3fea32b92d7648d9a3a06ee12d66374eH.jpg_300x300.jpg') no-repeat  center/cover;
+                  height: 162px;
+                  width: 300px;
+                }
+                
+
+
+
+
+ */
+
+
+                  /* MOTERCYCLE */
+/* 
+    
+                  .cd{
+                    background: 
+                    url('https://s.alicdn.com/@sc04/kf/H114cd9512e714529b3460b7fb64753f5F.png_300x300.png') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  .unique{
+                    background: 
+                    url('https://s.alicdn.com/@sc04/kf/HTB1F50ORFXXXXX2XVXXq6xXFXXXW.jpg_300x300.jpg')
+                     no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  .scooter{
+                    background: 
+                     url('https://s.alicdn.com/@sc04/kf/Hfa5c0609e05b44e091c15c23a407cfa82.jpg_300x300.jpg') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  .vespa{
+                    background:
+                     url('https://s.alicdn.com/@sc04/kf/H6d791c72a4a54a21a24646bae4b09a2bZ.jpg_300x300.jpg') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  .honda1{
+                    background:
+                     url('https://s.alicdn.com/@sc04/kf/Hbc35f9c5b41843a6aeca63848ce0d5864.png_300x300.png') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  .newbike{
+                    background: 
+                    url('https://s.alicdn.com/@sc04/kf/H6700cbafbe924a3b84b2872a74e11ebeX.jpg_300x300.jpg')
+                     no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  .ce{
+                    background: 
+                    url('https://s.alicdn.com/@sc04/kf/Hb119f0db240b46948c4f85a068e77f1dz.jpg_300x300.jpg') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  .verse{
+                    background: 
+                    url('https://s.alicdn.com/@sc04/kf/Hc06af57392414a888676d83f262038a9p.jpg_300x300.jpg') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  
+                  
+                  .bettery{
+                    background:
+                     url('https://s.alicdn.com/@sc04/kf/He6db4e6d6137435490317a4fe2f0bd2eG.jpg_300x300.jpg') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  .world1{
+                    background: 
+                    url('https://s.alicdn.com/@sc04/kf/H1ca1eac1ad5045a9ae96c656b234843bW.jpg_300x300.jpg')
+                     no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  .fashion{
+                    background:
+                     url('https://s.alicdn.com/@sc04/kf/HTB1wB8Sa_jxK1Rjy0Fnq6yBaFXaH.jpg_300x300.jpg') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  .hertz{
+                    background:
+                     url('https://s.alicdn.com/@sc04/kf/Hf0ffe2cbb6ac468a94b58c7244dfdfc5g.jpg_300x300.jpg') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                   */
+
+
+                  
+                  /* HOUSES */
+/* 
+    
+                  .clean{
+                    background: 
+                    url('https://s.alicdn.com/@sc04/kf/H12822c23728d4831b90b27779e885c59Y.jpg_300x300.jpg') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  .jncn{
+                    background: 
+                    url('https://s.alicdn.com/@sc04/kf/Hd0221b5277c348eb9668764be722463ci.jpg_300x300.jpg')
+                     no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  .wash{
+                    background: 
+                     url('https://s.alicdn.com/@sc04/kf/HTB1_Oe_n0rJ8KJjSspa760uKpXaN.png_300x300.png') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  .shipping{
+                    background:
+                     url('https://s.alicdn.com/@sc04/kf/H3d12809a64764ed087ccecf584b6a38dl.jpg_300x300.jpg') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  .compac{
+                    background:
+                     url('https://s.alicdn.com/@sc04/kf/Haa075a4b3b984b25bde2d5f012cd18e9X.png_300x300.png') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  .villa{
+                    background: 
+                    url('https://s.alicdn.com/@sc04/kf/HTB1blXdXcnrK1RjSspkq6yuvXXa7.jpg_300x300.jpg')
+                     no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  .f2{
+                    background: 
+                    url('https://s.alicdn.com/@sc04/kf/H76df60091fbc44bfa5b0dd5d7d4cd9eb4.jpg_300x300.jpg') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  .floating{
+                    background:
+                     url('https://s.alicdn.com/@sc04/kf/HTB1rqrLboT1gK0jSZFhq6yAtVXa8.jpg_300x300.jpg') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  
+                  
+                  .luxury{
+                    background:
+                     url('https://s.alicdn.com/@sc04/kf/H3b8148d4eeca4af4a94aabea5ddb1007K.jpg_300x300.jpg') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  .profit{
+                    background:
+                     url('https://s.alicdn.com/@sc04/kf/UTB8V23Ky0oSdeJk43Owq6ya4XXaF.jpg_300x300.jpg')
+                     no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  .amazing{
+                    background:
+                     url('https://s.alicdn.com/@sc04/kf/Hde196df3e95e43cb9643f260e135ff0bE.jpg_300x300.jpg') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  .vhk{
+                    background:
+                     url('https://s.alicdn.com/@sc04/kf/H9fafc89743fd48a7b9ea8ee8212ae02at.jpg_300x300.jpg') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+
+
+ */
+
+
+
+
+
+
+
+                    
+                  /* TV-VIDEOS-AUDIO */
+
+/*     
+                  .t1{
+                    background: 
+                    url('https://s.alicdn.com/@sc04/kf/Hb2dfc236a0164f32bceeacdb770bf3efm.jpg_300x300.jpg') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  .t2{
+                    background: 
+                    url('https://s.alicdn.com/@sc04/kf/H18319de62c8045cea3d9bce617251da9h.jpg_300x300.jpg')
+                     no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  .t3{
+                    background: 
+                     url('https://s.alicdn.com/@sc04/kf/Hf59698ea19af45fcbaa3fe096d05ba5ev.jpg_300x300.jpg') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  .t4{
+                    background:
+                     url('https://s.alicdn.com/@sc04/kf/H0b9c4eb85fb9402cb842db6378fb779af.jpg_300x300.jpg') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  .t5{
+                    background:
+                     url('https://s.alicdn.com/@sc04/kf/H433071eb841e4db99ebdf199fe3e5afdW.jpg_300x300.jpg') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  .t6{
+                    background: 
+                    url('https://s.alicdn.com/@sc04/kf/H611d1c7b9cdc45699dfc7f783ebca2784.jpg_300x300.jpg')
+                     no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  .r1{
+                    background: 
+                    url('https://s.alicdn.com/@sc04/kf/H5b03b3b9af7c428a82cfa3580551ac855.jpg_300x300.jpg') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  .r2{
+                    background:
+                     url('https://s.alicdn.com/@sc04/kf/H3272e23fc9f54a83ba3bdd90f0e129daq.png_300x300.png') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  
+                  
+                  .r3{
+                    background:
+                     url('https://s.alicdn.com/@sc04/kf/Hcf4c020d76d0496d9641ddd1bfb17e7bV.jpg_300x300.jpg') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  .r4{
+                    background:
+                     url('https://s.alicdn.com/@sc04/kf/HTB1g5VdaDjxK1Rjy0Fnq6yBaFXaF.jpg_300x300.jpg')
+                     no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  .r5{
+                    background:
+                     url('https://s.alicdn.com/@sc04/kf/Ha6eba22589934f53b77f7d87dce8a8fdh.jpg_300x300.jpg') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  .r6{
+                    background:
+                     url('https://s.alicdn.com/@sc04/kf/H82b788eba2ad49a0b15faec87bc133d9x.jpg_300x300.jpg') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                   */
+                  
+
+
+
+                      
+                  /* TABLETS */
+/* 
+    
+                  .tab1{
+                    background: 
+                    url('https://s.alicdn.com/@sc04/kf/He88ae67e812c4f0a99f0e863cfd30d1b1.jpg_300x300.jpg') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  .tab2{
+                    background: 
+                    url('https://s.alicdn.com/@sc04/kf/H4523a773417d429aad8b31fd9225491b7.jpg_220x220.jpg')
+                     no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  .tab3{
+                    background: 
+                     url('https://s.alicdn.com/@sc04/kf/HTB1NUDyaIfrK1RkSnb4q6xHRFXaQ.jpg_300x300.jpg') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  .tab4{
+                    background:
+                     url('https://s.alicdn.com/@sc04/kf/HTB1c2NQSpXXXXXGXVXXq6xXFXXXC.jpg_300x300.jpg') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  .tab5{
+                    background:
+                     url('https://s.alicdn.com/@sc04/kf/H58f5ccc4c9be4c79aeaa753cbc8532e5u.jpg_300x300.jpg') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  .tab6{
+                    background: 
+                    url('https://s.alicdn.com/@sc04/kf/HTB1VrECaovrK1RjSspcq6zzSXXaL.jpg_300x300.jpg')
+                     no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  .tab7{
+                    background: 
+                    url('https://s.alicdn.com/@sc04/kf/H472e64b935eb4aa0bf71dd489f14d256k.jpg_300x300.jpg') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  .tab8{
+                    background:
+                     url('https://s.alicdn.com/@sc04/kf/H032a6782cfbc42ed933ed8b1da8443a82.jpg_300x300.jpg') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  
+                  
+                  .tab9{
+                    background:
+                     url('https://s.alicdn.com/@sc04/kf/H98b0a694bc9d4e1eb5a7e608c358901aJ.jpg_300x300.jpg') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  .tab10{
+                    background:
+                     url('https://s.alicdn.com/@sc04/kf/H8ebfca680c5e450eaa84d9750a48baf9q.jpg_300x300.jpg')
+                     no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  .tab11{
+                    background:
+                     url('https://s.alicdn.com/@sc04/kf/Hf544b98cc9804db9a38e718014886890X.png_300x300.png') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  .tab12{
+                    background:
+                     url('https://s.alicdn.com/@sc04/kf/H17dc8c2a8410409db693cf4f837daf38c.jpg_300x300.jpg') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                   */
+
+
+                          
+                  /* LANDS AND PLOTS */
+
+/*     
+                  .l1{
+                    background: 
+                    url('https://images.olx.com.pk/thumbnails/231770718-240x180.webp') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  .l2{
+                    background: 
+                    url('https://images.olx.com.pk/thumbnails/231770617-240x180.webp')
+                     no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  .l3{
+                    background: 
+                     url('https://s.alicdn.com/@sc04/kf/Ua16b45e5d2f348b29607d7d8261338b1E.png_300x300.png') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  .l4{
+                    background:
+                     url('https://s.alicdn.com/@sc04/kf/U1c3b724163444651ba83073bef32fa446.jpg_300x300.jpg') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  .l5{
+                    background:
+                     url('https://s.alicdn.com/@sc04/kf/H9d4fc25dc34e4ff38f899ed8d9b32817A.jpg_300x300.jpg') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  .l6{
+                    background: 
+                    url('https://s.alicdn.com/@sc04/kf/U37c5f01334d2437e862cd015a02f9a84O.png_300x300.png')
+                     no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  .l7{
+                    background: 
+                    url('https://images.olx.com.pk/thumbnails/231808842-240x180.webp') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  .l8{
+                    background:
+                     url('https://images.olx.com.pk/thumbnails/231957243-240x180.webp') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  
+                  
+                  .l9{
+                    background:
+                     url('https://images.olx.com.pk/thumbnails/231957072-240x180.webp') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  
+                  .l10{
+                    background:
+                     url('https://images.olx.com.pk/thumbnails/231956957-240x180.webp')
+                     no-repeat  center/cover;
+                    height: 162px;
+
+                    width: 300px;
+                  }
+                  
+                  
+                  .l11{
+                    background:
+                     url('https://s.alicdn.com/@sc04/kf/Uc6975a2bf2414e57a427ed29293f163bP.jpeg_300x300.jpeg') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                  
+                  .l12{
+                    background:
+                     url('https://s.alicdn.com/@sc04/kf/UTB8wF6_HFfFXKJk43Otq6xIPFXas.jpg_300x300.jpg') no-repeat  center/cover;
+                    height: 162px;
+                    width: 300px;
+                  }
+                   */
+                  
